@@ -1,0 +1,9 @@
+{
+  "name": "viral-outliers",
+  "version": "1.0.0",
+  "description": "니치를 입력하면 최근 7일 인스타그램 릴스·틱톡의 바이럴 아웃라이어 TOP 10을 Apify로 찾아 Notion에 정리하는 스킬 (Apify·Notion MCP 포함)",
+  "author": {
+    "name": "naya-an-tech"
+  },
+  "repository": "https://github.com/naya-an-tech/claude-find-outliers"
+}

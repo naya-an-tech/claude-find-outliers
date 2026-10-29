@@ -1,0 +1,16 @@
+{
+  "name": "claude-find-outliers",
+  "owner": {
+    "name": "naya-an-tech"
+  },
+  "metadata": {
+    "description": "바이럴 아웃라이어 리서치 스킬 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "viral-outliers",
+      "source": "./plugins/viral-outliers",
+      "description": "/viral-outliers:find-outliers <니치> — 이번 주 인스타·틱톡 바이럴 아웃라이어 TOP 10 → Notion"
+    }
+  ]
+}
